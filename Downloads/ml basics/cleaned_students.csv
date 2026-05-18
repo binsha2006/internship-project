@@ -1,0 +1,111 @@
+Name,Department,Marks,Attendance,Result
+Arun,CSE,85.0,80.0,"<bound method Series.apply of 0    85.0
+1    90.0
+2    78.0
+3    92.0
+4    88.0
+5    95.0
+6    70.0
+7    82.0
+8    84.0
+9    76.0
+Name: Marks, dtype: float64>"
+Meera,ECE,90.0,92.0,"<bound method Series.apply of 0    85.0
+1    90.0
+2    78.0
+3    92.0
+4    88.0
+5    95.0
+6    70.0
+7    82.0
+8    84.0
+9    76.0
+Name: Marks, dtype: float64>"
+Rahul,CSE,78.0,70.0,"<bound method Series.apply of 0    85.0
+1    90.0
+2    78.0
+3    92.0
+4    88.0
+5    95.0
+6    70.0
+7    82.0
+8    84.0
+9    76.0
+Name: Marks, dtype: float64>"
+Anu,MECH,92.0,85.0,"<bound method Series.apply of 0    85.0
+1    90.0
+2    78.0
+3    92.0
+4    88.0
+5    95.0
+6    70.0
+7    82.0
+8    84.0
+9    76.0
+Name: Marks, dtype: float64>"
+Vishnu,ECE,88.0,60.0,"<bound method Series.apply of 0    85.0
+1    90.0
+2    78.0
+3    92.0
+4    88.0
+5    95.0
+6    70.0
+7    82.0
+8    84.0
+9    76.0
+Name: Marks, dtype: float64>"
+Akhil,CSE,95.0,95.0,"<bound method Series.apply of 0    85.0
+1    90.0
+2    78.0
+3    92.0
+4    88.0
+5    95.0
+6    70.0
+7    82.0
+8    84.0
+9    76.0
+Name: Marks, dtype: float64>"
+Sneha,MECH,70.0,72.0,"<bound method Series.apply of 0    85.0
+1    90.0
+2    78.0
+3    92.0
+4    88.0
+5    95.0
+6    70.0
+7    82.0
+8    84.0
+9    76.0
+Name: Marks, dtype: float64>"
+Kiran,ECE,82.0,88.0,"<bound method Series.apply of 0    85.0
+1    90.0
+2    78.0
+3    92.0
+4    88.0
+5    95.0
+6    70.0
+7    82.0
+8    84.0
+9    76.0
+Name: Marks, dtype: float64>"
+Diya,CSE,84.0,90.0,"<bound method Series.apply of 0    85.0
+1    90.0
+2    78.0
+3    92.0
+4    88.0
+5    95.0
+6    70.0
+7    82.0
+8    84.0
+9    76.0
+Name: Marks, dtype: float64>"
+Fathima,MECH,76.0,81.33333333333333,"<bound method Series.apply of 0    85.0
+1    90.0
+2    78.0
+3    92.0
+4    88.0
+5    95.0
+6    70.0
+7    82.0
+8    84.0
+9    76.0
+Name: Marks, dtype: float64>"
